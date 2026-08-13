@@ -1,0 +1,1742 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":zzz: SANS Investigative Forensics Toolkit (sift)",
+          "description": "Linux distribution for forensic analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-02-14T21:38:23Z",
+            "owner": "teamdfir",
+            "repo": "sift",
+            "stars": 550
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bitscout",
+          "description": "LiveCD/LiveUSB for remote forensic acquisition and analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2025-03-21T08:21:44Z",
+            "owner": "vitaly-kamluk",
+            "repo": "bitscout",
+            "stars": 479
+          }
+        }
+      ],
+      "title": "Distributions"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":star: The Sleuth Kit",
+          "description": "Tools for low level forensic analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-11T21:41:06Z",
+            "owner": "sleuthkit",
+            "repo": "sleuthkit",
+            "stars": 3124
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IPED - Indexador e Processador de Evidências Digitais",
+          "description": "Brazilian Federal Police Tool for Forensic Investigations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Java",
+            "last_commit": "2026-08-12T18:08:56Z",
+            "owner": "sepinf-inc",
+            "repo": "IPED",
+            "stars": 2670
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: PowerForensics",
+          "description": "PowerForensics is a framework for live disk forensic analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-11-16T10:31:37Z",
+            "owner": "Invoke-IR",
+            "repo": "PowerForensics",
+            "stars": 1442
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Dissect",
+          "description": "Dissect is a digital forensics & incident response framework and toolset that allows you to quickly access and analyse forensic artefacts from various disk and file formats, developed by Fox-IT (part of NCC Group).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-02-25T14:09:37Z",
+            "owner": "fox-it",
+            "repo": "dissect",
+            "stars": 1142
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IntelMQ",
+          "description": "IntelMQ collects and processes security feeds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-28T19:55:15Z",
+            "owner": "certtools",
+            "repo": "intelmq",
+            "stars": 1131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kuiper",
+          "description": "Digital Investigation Platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-10-12T07:48:11Z",
+            "owner": "DFIRKuiper",
+            "repo": "Kuiper",
+            "stars": 901
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "turbinia",
+          "description": "Turbinia is an open-source framework for deploying, managing, and running forensic workloads on cloud platforms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T08:50:02Z",
+            "owner": "google",
+            "repo": "turbinia",
+            "stars": 792
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Laika BOSS",
+          "description": "Laika is an object scanner and intrusion detection system",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-16T13:39:29Z",
+            "owner": "lmco",
+            "repo": "laikaboss",
+            "stars": 753
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: dff",
+          "description": "Forensic framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-02-13T14:34:38Z",
+            "owner": "arxsys",
+            "repo": "dff",
+            "stars": 315
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: hashlookup-forensic-analyser",
+          "description": "A tool to analyse files from a forensic acquisition to find known/unknown hashes from hashlookup API or using a local Bloom filter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-09-24T12:47:57Z",
+            "owner": "hashlookup",
+            "repo": "hashlookup-forensic-analyser",
+            "stars": 130
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: dexter",
+          "description": "Dexter is a forensics acquisition framework designed to be extensible and secure",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2019-06-21T21:02:42Z",
+            "owner": "coinbase",
+            "repo": "dexter",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wombat Forensics",
+          "description": "Forensic GUI tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-07-19T22:25:06Z",
+            "owner": "pjrinaldi",
+            "repo": "wombatforensics",
+            "stars": 49
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AIFT",
+          "description": "AIFT (AI Forensic Triage) parses evidence using dissect and generates AI-assisted forensic reports.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-13T14:41:18Z",
+            "owner": "FlipForensics",
+            "repo": "AIFT",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "osquery",
+          "description": "SQL powered operating system analytics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-13T01:37:58Z",
+            "owner": "osquery",
+            "repo": "osquery",
+            "stars": 23457
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "grr",
+          "description": "GRR Rapid Response: remote live forensics for incident response",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-12T12:52:29Z",
+            "owner": "google",
+            "repo": "grr",
+            "stars": 5086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UAC",
+          "description": "UAC (Unix-like Artifacts Collector) is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-07-01T14:00:50Z",
+            "owner": "tclahr",
+            "repo": "uac",
+            "stars": 1432
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":package: mig",
+          "description": "Distributed & real time digital forensics at the speed of the cloud",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2019-09-13T23:40:11Z",
+            "owner": "mozilla",
+            "repo": "mig",
+            "stars": 1203
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":package: Linux Expl0rer",
+          "description": "Easy-to-use live forensics toolbox for Linux endpoints written in Python & Flask",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "HTML",
+            "last_commit": "2024-03-03T19:36:15Z",
+            "owner": "intezer",
+            "repo": "linux-explorer",
+            "stars": 405
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "POFR",
+          "description": "The Penguin OS Flight Recorder collects, stores and organizes for further analysis process execution, file access and network/socket endpoint data from the Linux Operating System.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-03-27T20:10:30Z",
+            "owner": "gmagklaras",
+            "repo": "POFR",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "InnerWarden",
+          "description": "Security agent with built-in forensic capture (process state, network connections, memory maps, hidden process detection via direct /proc reads)",
+          "children": []
+        }
+      ],
+      "title": "Live Forensics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Loki",
+          "description": "Simple IOC and Incident Response Scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-12T08:00:47Z",
+            "owner": "Neo23x0",
+            "repo": "Loki",
+            "stars": 3775
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: Fenrir",
+          "description": "Simple Bash IOC Scanner",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2022-02-12T09:33:35Z",
+            "owner": "Neo23x0",
+            "repo": "Fenrir",
+            "stars": 776
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fastfinder",
+          "description": "Fast customisable cross-platform suspicious file finder. Supports md5/sha1/sha256 hashes, literal/wildcard strings, regular expressions and YARA rules",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-01-24T14:23:55Z",
+            "owner": "codeyourweb",
+            "repo": "fastfinder",
+            "stars": 260
+          }
+        }
+      ],
+      "title": "IOC Scanner"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Velociraptor",
+          "description": "Velociraptor is a tool for collecting host based state information using Velocidex Query Language (VQL) queries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-12T06:59:02Z",
+            "owner": "Velocidex",
+            "repo": "velociraptor",
+            "stars": 4171
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LiME",
+          "description": "Loadable Kernel Module (LKM), which allows the acquisition of volatile memory from Linux and Linux-based devices, formerly called DMD",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-04-05T13:42:51Z",
+            "owner": "jtsylve",
+            "repo": "LiME",
+            "stars": 2027
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AVML",
+          "description": "A portable volatile memory acquisition tool for Linux",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:22:48Z",
+            "owner": "microsoft",
+            "repo": "avml",
+            "stars": 1118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: FastIR Collector",
+          "description": "Collect artifacts on windows",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2021-01-26T08:20:10Z",
+            "owner": "SekoiaLab",
+            "repo": "Fastir_Collector",
+            "stars": 521
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UFADE",
+          "description": "Extract files from iOS devices on Linux and MacOS. Mostly a wrapper for pymobiledevice3. Creates iTunes-style backups and advanced logical backups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-29T06:22:57Z",
+            "owner": "prosch88",
+            "repo": "UFADE",
+            "stars": 505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "artifactcollector",
+          "description": "A customizable agent to collect forensic artifacts on any Windows, macOS or Linux system",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Go",
+            "last_commit": "2025-05-07T19:07:02Z",
+            "owner": "forensicanalysis",
+            "repo": "artifactcollector",
+            "stars": 310
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Fuji",
+          "description": "MacOS forensic acquisition made simple. It creates full file system copies or targeted collection of Mac computers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-02T13:45:23Z",
+            "owner": "Lazza",
+            "repo": "Fuji",
+            "stars": 294
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ForensicMiner",
+          "description": "A PowerShell-based DFIR automation tool, for artifact and evidence collection on Windows machines.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PowerShell",
+            "last_commit": "2025-04-06T11:47:05Z",
+            "owner": "securityjoes",
+            "repo": "ForensicMiner",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Acquire",
+          "description": "Acquire is a tool to quickly gather forensic artifacts from disk images or a live system into a lightweight container",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T10:24:34Z",
+            "owner": "fox-it",
+            "repo": "acquire",
+            "stars": 123
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FIT",
+          "description": "Forensic acquisition of web pages, emails, social media, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-03-06T10:58:57Z",
+            "owner": "fit-project",
+            "repo": "fit",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALEX",
+          "description": "Extract files from ADB devices on Windows, Linux and MacOS. Mostly a wrapper for adbutils.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-06T09:54:44Z",
+            "owner": "prosch88",
+            "repo": "ALEX",
+            "stars": 56
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SPECTR3",
+          "description": "Acquire, triage and investigate remote evidence via portable iSCSI readonly access",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-10-25T07:56:09Z",
+            "owner": "alpine-sec",
+            "repo": "SPECTR3",
+            "stars": 44
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unix_collector",
+          "description": "A live forensic collection script for UNIX-like systems as a single script.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2026-06-18T20:04:28Z",
+            "owner": "op7ic",
+            "repo": "unix_collector",
+            "stars": 43
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hypoxia",
+          "description": "Cross-platform CLI tool for targeted file collection with SHA-256 manifest, chain-of-custody log, and checkpoint/resume support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-04-09T18:05:35Z",
+            "owner": "xinitd",
+            "repo": "hypoxia",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Acquisition"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "floss",
+          "description": "Static analysis tool to automatically deobfuscate strings from malware binaries",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T18:41:13Z",
+            "owner": "mandiant",
+            "repo": "flare-floss",
+            "stars": 4119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bulk_extractor",
+          "description": "Extracts information such as email addresses, creditcard numbers and histrograms from disk images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-11T14:25:28Z",
+            "owner": "simsong",
+            "repo": "bulk_extractor",
+            "stars": 1404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: swap_digger",
+          "description": "A bash script used to automate Linux swap analysis, automating swap extraction and searches for Linux user credentials, Web form credentials, Web form emails, etc.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-06-26T13:33:55Z",
+            "owner": "sevagas",
+            "repo": "swap_digger",
+            "stars": 536
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bstrings",
+          "description": "Improved strings utility",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2026-04-26T16:09:16Z",
+            "owner": "EricZimmerman",
+            "repo": "bstrings",
+            "stars": 151
+          }
+        }
+      ],
+      "title": "Carving"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":package: volatility",
+          "description": "The memory forensic framework",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2025-05-16T13:40:55Z",
+            "owner": "volatilityfoundation",
+            "repo": "volatility",
+            "stars": 8059
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MemProcFS",
+          "description": "An easy and convenient way of accessing physical memory as files a virtual file system.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-08-12T21:48:09Z",
+            "owner": "ufrisk",
+            "repo": "MemProcFS",
+            "stars": 4278
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":package: Rekall",
+          "description": "Memory Forensic Framework",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2020-10-18T04:33:58Z",
+            "owner": "google",
+            "repo": "rekall",
+            "stars": 2007
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: KeeFarce",
+          "description": "Extract KeePass passwords from memory",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2015-11-17T04:12:25Z",
+            "owner": "denandz",
+            "repo": "KeeFarce",
+            "stars": 1029
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VolUtility",
+          "description": "Web App for Volatility framework",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-13T06:19:36Z",
+            "owner": "kevthehermit",
+            "repo": "VolUtility",
+            "stars": 387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: inVtero.net",
+          "description": "High speed memory analysis framework developed in .NET supports all Windows x64, includes code integrity and write support",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2023-09-30T08:02:20Z",
+            "owner": "ShaneK2",
+            "repo": "inVtero.net",
+            "stars": 296
+          }
+        }
+      ],
+      "title": "Memory Forensics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RustNet",
+          "description": "A cross-platform network monitoring terminal UI providing real-time visibility into network connections",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T19:16:54Z",
+            "owner": "domcyrus",
+            "repo": "rustnet",
+            "stars": 4845
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Kismet",
+          "description": "A passive wireless sniffer",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-10T23:35:21Z",
+            "owner": "kismetwireless",
+            "repo": "kismet",
+            "stars": 2192
+          }
+        }
+      ],
+      "title": "Network Forensics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hayabusa",
+          "description": "A sigma-based threat hunting and fast forensics timeline generator for Windows event logs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T15:00:37Z",
+            "owner": "Yamato-Security",
+            "repo": "hayabusa",
+            "stars": 3297
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LogonTracer",
+          "description": "Investigate malicious Windows logon by visualizing and analyzing Windows event log",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-02T02:31:38Z",
+            "owner": "JPCERTCC",
+            "repo": "LogonTracer",
+            "stars": 3209
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: Beagle",
+          "description": "Transform data sources and logs into graphs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-12-13T21:24:54Z",
+            "owner": "yampelo",
+            "repo": "beagle",
+            "stars": 1351
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RegRipper3.0",
+          "description": "RegRipper is an open source Perl tool for parsing the Registry and presenting it for analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-05-27T13:22:58Z",
+            "owner": "keydet89",
+            "repo": "RegRipper3.0",
+            "stars": 712
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RegRippy",
+          "description": "A framework for reading and extracting useful forensics data from Windows registry hives",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-05-12T15:05:18Z",
+            "owner": "airbus-cert",
+            "repo": "regrippy",
+            "stars": 216
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Blauhaunt",
+          "description": "A tool collection for filtering and visualizing logon events",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-07-23T11:11:07Z",
+            "owner": "cgosec",
+            "repo": "Blauhaunt",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: python-evt",
+          "description": "Pure Python parser for classic Windows Event Log files (.evt)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-06-30T19:55:20Z",
+            "owner": "williballenthin",
+            "repo": "python-evt",
+            "stars": 52
+          }
+        }
+      ],
+      "title": "Windows Artifacts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "RecuperaBit",
+          "description": "Reconstruct and recover NTFS data",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-26T20:05:07Z",
+            "owner": "Lazza",
+            "repo": "RecuperaBit",
+            "stars": 624
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NTFSTool",
+          "description": "Complete NTFS forensics tool",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-06-26T21:09:20Z",
+            "owner": "thewhiteninja",
+            "repo": "ntfstool",
+            "stars": 620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: NTFS USN Journal parser",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-07-15T18:03:01Z",
+            "owner": "PoorBillionaire",
+            "repo": "USN-Journal-Parser",
+            "stars": 119
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: python-ntfs",
+          "description": "NTFS analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2017-12-22T23:27:47Z",
+            "owner": "williballenthin",
+            "repo": "python-ntfs",
+            "stars": 86
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MFTExtractor",
+          "description": "MFT-Parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2026-08-01T20:24:56Z",
+            "owner": "aarsakian",
+            "repo": "FileSystemForensics",
+            "stars": 18
+          }
+        }
+      ],
+      "title": "NTFS/MFT Processing"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":zzz: OSXAuditor",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2020-07-27T22:34:25Z",
+            "owner": "jipegit",
+            "repo": "OSXAuditor",
+            "stars": 3135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "APFS Fuse",
+          "description": "A read-only FUSE driver for the new Apple File System",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-08-13T19:36:10Z",
+            "owner": "sgan81",
+            "repo": "apfs-fuse",
+            "stars": 2131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":package: OSX Collect",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2019-06-19T15:40:49Z",
+            "owner": "YelpArchive",
+            "repo": "osxcollector",
+            "stars": 1894
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mac_apt (macOS Artifact Parsing Tool)",
+          "description": "Extracts forensic artifacts from disk images or live machines",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-23T09:14:30Z",
+            "owner": "ydkhatri",
+            "repo": "mac_apt",
+            "stars": 1072
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: macMRUParser",
+          "description": "Python script to parse the Most Recently Used (MRU) plist files on macOS into a more human friendly format",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-02-22T17:12:44Z",
+            "owner": "mac4n6",
+            "repo": "macMRU-Parser",
+            "stars": 111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: MacLocationsScraper",
+          "description": "Dump the contents of the location database files on iOS and macOS",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-10-26T09:55:17Z",
+            "owner": "mac4n6",
+            "repo": "Mac-Locations-Scraper",
+            "stars": 92
+          }
+        }
+      ],
+      "title": "OS X Forensics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "MobSF",
+          "description": "An automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2026-08-10T06:20:34Z",
+            "owner": "MobSF",
+            "repo": "Mobile-Security-Framework-MobSF",
+            "stars": 21590
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: Andriller",
+          "description": "A software utility with a collection of forensic tools for smartphones",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2022-06-27T22:00:44Z",
+            "owner": "den4uk",
+            "repo": "andriller",
+            "stars": 1594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "iLEAPP",
+          "description": "An iOS Logs, Events, And Plists Parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T15:03:34Z",
+            "owner": "abrignoni",
+            "repo": "iLEAPP",
+            "stars": 1150
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ALEAPP",
+          "description": "An Android Logs Events and Protobuf Parser",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-11T17:55:44Z",
+            "owner": "abrignoni",
+            "repo": "ALEAPP",
+            "stars": 874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: OpenBackupExtractor",
+          "description": "An app for extracting data from iPhone and iPad backups.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Swift",
+            "last_commit": "2022-01-06T09:02:07Z",
+            "owner": "vgmoose",
+            "repo": "OpenBackupExtractor",
+            "stars": 191
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: MEAT",
+          "description": "Perform different kinds of acquisitions on iOS devices",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2020-05-21T01:53:03Z",
+            "owner": "jfarley248",
+            "repo": "MEAT",
+            "stars": 168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: iOS Frequent Locations Dumper",
+          "description": "Dump the contents of the StateModel#.archive files located in /private/var/mobile/Library/Caches/com.apple.routined/",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2018-11-04T16:34:33Z",
+            "owner": "mac4n6",
+            "repo": "iOS-Frequent-Locations-Dumper",
+            "stars": 92
+          }
+        }
+      ],
+      "title": "Mobile Forensics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":package: Docker Explorer",
+          "description": "Extracts and interprets forensic artifacts from disk images of Docker Host systems",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Python",
+            "last_commit": "2024-10-04T07:44:31Z",
+            "owner": "google",
+            "repo": "docker-explorer",
+            "stars": 555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: dof (Docker Forensics Toolkit)",
+          "description": "Extracts and interprets forensic artifacts from disk images of Docker Host systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-02-18T12:53:22Z",
+            "owner": "docker-forensics-toolkit",
+            "repo": "toolkit",
+            "stars": 112
+          }
+        }
+      ],
+      "title": "Docker Forensics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "hindsight",
+          "description": "Internet history forensics for Google Chrome/Chromium",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T15:40:43Z",
+            "owner": "RyanDFIR",
+            "repo": "hindsight",
+            "stars": 1481
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "unfurl",
+          "description": "Extract and visualize data from URLs",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T22:34:24Z",
+            "owner": "RyanDFIR",
+            "repo": "unfurl",
+            "stars": 759
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "WinSearchDBAnalyzer",
+          "description": "This tool can parse normal records and recover deleted records in Windows.edb.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-20T11:40:34Z",
+            "owner": "moaistory",
+            "repo": "WinSearchDBAnalyzer",
+            "stars": 134
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "IE10Analyzer",
+          "description": "This tool can parse normal records and recover deleted records in WebCacheV01.dat.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2024-07-20T11:38:46Z",
+            "owner": "moaistory",
+            "repo": "IE10Analyzer",
+            "stars": 20
+          }
+        }
+      ],
+      "title": "Internet Artifacts"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "timesketch",
+          "description": "Collaborative forensic timeline analysis",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-09T10:08:31Z",
+            "owner": "google",
+            "repo": "timesketch",
+            "stars": 3390
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":star: plaso",
+          "description": "Extract timestamps from various files and aggregate them",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-03T04:16:33Z",
+            "owner": "log2timeline",
+            "repo": "plaso",
+            "stars": 2135
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DFTimewolf",
+          "description": "Framework for orchestrating forensic collection, processing and data export using GRR and Rekall",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-10T08:45:20Z",
+            "owner": "log2timeline",
+            "repo": "dftimewolf",
+            "stars": 352
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "timeliner",
+          "description": "A rewrite of mactime, a bodyfile reader",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Go",
+            "last_commit": "2024-08-05T09:52:50Z",
+            "owner": "airbus-cert",
+            "repo": "timeliner",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Timeline Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Disk Arbitrator",
+          "description": "A Mac OS X forensic utility designed to help the user ensure correct forensic procedures are followed during imaging of a disk device",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Objective-C",
+            "last_commit": "2025-08-25T05:12:28Z",
+            "owner": "aburgh",
+            "repo": "Disk-Arbitrator",
+            "stars": 714
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "libewf",
+          "description": "Libewf is a library and some tools to access the Expert Witness Compression Format (EWF, E01)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C",
+            "last_commit": "2026-07-16T10:48:08Z",
+            "owner": "libyal",
+            "repo": "libewf",
+            "stars": 311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: imagemounter",
+          "description": "Command line utility and Python package to ease the (un)mounting of forensic disk images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2023-02-09T15:49:13Z",
+            "owner": "ralphje",
+            "repo": "imagemounter",
+            "stars": 127
+          }
+        }
+      ],
+      "title": "Disk image handling"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "iris",
+          "description": "Collaborative Incident Response platform",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-13T12:08:36Z",
+            "owner": "dfir-iris",
+            "repo": "iris-web",
+            "stars": 1534
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "dfirtrack",
+          "description": "Digital Forensics and Incident Response Tracking application, track systems",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-01-13T14:54:31Z",
+            "owner": "dfirtrack",
+            "repo": "dfirtrack",
+            "stars": 538
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Catalyst",
+          "description": "Catalyst is an open source security automation and ticket system",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vue",
+            "last_commit": "2026-07-18T08:09:42Z",
+            "owner": "SecurityBrewery",
+            "repo": "catalyst",
+            "stars": 536
+          }
+        }
+      ],
+      "title": "Management"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "sherloq",
+          "description": "An open-source digital photographic image forensic toolset",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Perl",
+            "last_commit": "2026-07-16T11:39:56Z",
+            "owner": "GuidoBartoli",
+            "repo": "sherloq",
+            "stars": 3181
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: Ghiro",
+          "description": "A fully automated tool designed to run forensics analysis over a massive amount of images",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2016-09-15T22:16:33Z",
+            "owner": "Ghirensics",
+            "repo": "ghiro",
+            "stars": 526
+          }
+        }
+      ],
+      "title": "Picture Analysis"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": ":zzz: FOCA",
+          "description": "FOCA is a tool used mainly to find metadata and hidden information in the documents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C#",
+            "last_commit": "2022-12-08T09:31:55Z",
+            "owner": "ElevenPaths",
+            "repo": "FOCA",
+            "stars": 3612
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "oletools",
+          "description": "Tools to analyze Microsoft OLE2 files and MS Office documents for malware analysis and forensics",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-02-14T19:42:44Z",
+            "owner": "decalage2",
+            "repo": "oletools",
+            "stars": 3391
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: Metagoofil",
+          "description": "Metadata harvester for extracting metadata from public documents",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-03-21T03:45:48Z",
+            "owner": "laramies",
+            "repo": "metagoofil",
+            "stars": 1307
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mat2",
+          "description": "Metadata removal tool, supporting a wide range of commonly used file formats",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-08-12T20:21:26Z",
+            "owner": "jvoisin",
+            "repo": "mat2",
+            "stars": 336
+          }
+        }
+      ],
+      "title": "Metadata Forensics"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Zsteg",
+          "description": "Detect steganography hidden in PNG and BMP files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Ruby",
+            "last_commit": "2026-01-28T08:51:42Z",
+            "owner": "zed-0xff",
+            "repo": "zsteg",
+            "stars": 1606
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: Steghide",
+          "description": "is a steganography program that hides data in various kinds of image and audio files",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2024-02-20T21:20:11Z",
+            "owner": "StegHigh",
+            "repo": "steghide",
+            "stars": 767
+          }
+        }
+      ],
+      "title": "Steganography"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Forensics CTFs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-22T19:59:35Z",
+            "owner": "apsdehal",
+            "repo": "awesome-ctf",
+            "stars": 11750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": ":zzz: MemLabs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Shell",
+            "last_commit": "2021-03-08T15:54:40Z",
+            "owner": "stuxnet999",
+            "repo": "MemLabs",
+            "stars": 1883
+          }
+        }
+      ],
+      "title": "CTFs and Challenges"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Resources"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Pentesting",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-25T12:15:45Z",
+            "owner": "enaqx",
+            "repo": "awesome-pentest",
+            "stars": 26874
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hacking",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-02T22:40:13Z",
+            "owner": "carpedm20",
+            "repo": "awesome-hacking",
+            "stars": 16853
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-11T02:00:26Z",
+            "owner": "sbilly",
+            "repo": "awesome-security",
+            "stars": 14743
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Malware Analysis",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2024-06-07T05:09:47Z",
+            "owner": "rshipp",
+            "repo": "awesome-malware-analysis",
+            "stars": 14114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CTFs",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2024-07-22T19:59:35Z",
+            "owner": "apsdehal",
+            "repo": "awesome-ctf",
+            "stars": 11750
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Honeypots",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-01T14:15:45Z",
+            "owner": "paralax",
+            "repo": "awesome-honeypots",
+            "stars": 10517
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Android Security",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Makefile",
+            "last_commit": "2026-08-10T06:52:34Z",
+            "owner": "ashishb",
+            "repo": "android-security-awesome",
+            "stars": 9603
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Incident-Response",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-15T10:58:26Z",
+            "owner": "meirwah",
+            "repo": "awesome-incident-response",
+            "stars": 9317
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AppSec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "PHP",
+            "last_commit": "2025-02-22T16:39:11Z",
+            "owner": "paragonie",
+            "repo": "awesome-appsec",
+            "stars": 7023
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Infosec",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2025-11-21T19:28:33Z",
+            "owner": "onlurking",
+            "repo": "awesome-infosec",
+            "stars": 5716
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "YARA",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-06-15T19:57:31Z",
+            "owner": "pedramamini",
+            "repo": "awesome-yara",
+            "stars": 4254
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Social Engineering",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2023-04-05T10:31:18Z",
+            "owner": "giuliacassara",
+            "repo": "awesome-social-engineering",
+            "stars": 4217
+          }
+        }
+      ],
+      "title": "Related Awesome Lists"
+    },
+    {
+      "description": "Pull requests and issues with suggestions are welcome!",
+      "items": [],
+      "title": "Contributing"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:14:29.865Z",
+    "original_repository": "cugu/awesome-forensics",
+    "original_repository_sha": "a58ddbaa454b61327598110f2458c9fe31d25521",
+    "enhanced_repository": "enhansome/enhansome-forensics",
+    "enhanced_repository_description": null,
+    "title": "Awesome Forensics with stars"
+  }
+}

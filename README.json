@@ -17,7 +17,7 @@
                 "last_commit": "2024-02-14T21:38:23Z",
                 "owner": "teamdfir",
                 "repo": "sift",
-                "stars": 550
+                "stars": 551
               }
             },
             {
@@ -256,7 +256,7 @@
                 "last_commit": "2026-08-19T18:14:44Z",
                 "owner": "osquery",
                 "repo": "osquery",
-                "stars": 23484
+                "stars": 23486
               }
             },
             {
@@ -271,7 +271,7 @@
                 "last_commit": "2026-05-12T12:52:29Z",
                 "owner": "google",
                 "repo": "grr",
-                "stars": 5089
+                "stars": 5088
               }
             },
             {
@@ -353,7 +353,7 @@
                 "last_commit": "2026-01-12T08:00:47Z",
                 "owner": "Neo23x0",
                 "repo": "Loki",
-                "stars": 3782
+                "stars": 3783
               }
             },
             {
@@ -405,7 +405,7 @@
                 "last_commit": "2026-08-20T23:59:35Z",
                 "owner": "Velocidex",
                 "repo": "velociraptor",
-                "stars": 4195
+                "stars": 4197
               }
             },
             {
@@ -465,7 +465,7 @@
                 "last_commit": "2026-08-20T22:58:42Z",
                 "owner": "prosch88",
                 "repo": "UFADE",
-                "stars": 517
+                "stars": 518
               }
             },
             {
@@ -612,6 +612,28 @@
           "children": [
             {
               "node_type": "item",
+              "title": ":zzz: dcfldd",
+              "description": "Different improved version of dd (this version has some bugs!, another version is on github adulau/dcfldd)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8373286,
+                "language": "C",
+                "last_commit": "2018-06-17T08:42:57Z",
+                "owner": "adulau",
+                "repo": "dcfldd",
+                "stars": 75
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Imaging"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
               "title": "floss",
               "description": "Static analysis tool to automatically deobfuscate strings from malware binaries",
               "children": [],
@@ -619,10 +641,10 @@
                 "archived": false,
                 "id": 52993349,
                 "language": "Python",
-                "last_commit": "2026-08-21T09:28:52Z",
+                "last_commit": "2026-08-24T12:09:09Z",
                 "owner": "mandiant",
                 "repo": "flare-floss",
-                "stars": 4131
+                "stars": 4132
               }
             },
             {
@@ -637,7 +659,7 @@
                 "last_commit": "2026-08-18T02:21:24Z",
                 "owner": "simsong",
                 "repo": "bulk_extractor",
-                "stars": 1412
+                "stars": 1413
               }
             },
             {
@@ -783,10 +805,10 @@
                 "archived": false,
                 "id": 973688295,
                 "language": "Rust",
-                "last_commit": "2026-08-23T18:02:35Z",
+                "last_commit": "2026-08-24T08:55:53Z",
                 "owner": "domcyrus",
                 "repo": "rustnet",
-                "stars": 4901
+                "stars": 4908
               }
             },
             {
@@ -801,7 +823,7 @@
                 "last_commit": "2026-08-15T17:41:11Z",
                 "owner": "kismetwireless",
                 "repo": "kismet",
-                "stars": 2206
+                "stars": 2207
               }
             }
           ],
@@ -1032,7 +1054,7 @@
                 "last_commit": "2024-08-13T19:36:10Z",
                 "owner": "sgan81",
                 "repo": "apfs-fuse",
-                "stars": 2136
+                "stars": 2137
               }
             },
             {
@@ -1114,7 +1136,7 @@
                 "last_commit": "2026-08-21T22:30:56Z",
                 "owner": "MobSF",
                 "repo": "Mobile-Security-Framework-MobSF",
-                "stars": 21625
+                "stars": 21631
               }
             },
             {
@@ -1144,7 +1166,7 @@
                 "last_commit": "2026-08-22T05:13:22Z",
                 "owner": "abrignoni",
                 "repo": "iLEAPP",
-                "stars": 1168
+                "stars": 1169
               }
             },
             {
@@ -1159,7 +1181,7 @@
                 "last_commit": "2026-08-22T05:12:57Z",
                 "owner": "abrignoni",
                 "repo": "ALEAPP",
-                "stars": 885
+                "stars": 886
               }
             },
             {
@@ -1327,10 +1349,10 @@
                 "archived": false,
                 "id": 21009909,
                 "language": "Python",
-                "last_commit": "2026-08-18T15:04:22Z",
+                "last_commit": "2026-08-24T13:04:19Z",
                 "owner": "google",
                 "repo": "timesketch",
-                "stars": 3392
+                "stars": 3393
               }
             },
             {
@@ -1345,7 +1367,7 @@
                 "last_commit": "2026-08-03T04:16:33Z",
                 "owner": "log2timeline",
                 "repo": "plaso",
-                "stars": 2137
+                "stars": 2138
               }
             },
             {
@@ -1446,7 +1468,7 @@
                 "archived": false,
                 "id": 440092871,
                 "language": "Python",
-                "last_commit": "2026-07-13T12:08:36Z",
+                "last_commit": "2026-08-24T09:11:39Z",
                 "owner": "dfir-iris",
                 "repo": "iris-web",
                 "stars": 1544
@@ -1501,7 +1523,7 @@
                 "last_commit": "2026-07-16T11:39:56Z",
                 "owner": "GuidoBartoli",
                 "repo": "sherloq",
-                "stars": 3191
+                "stars": 3192
               }
             },
             {
@@ -1538,7 +1560,7 @@
                 "last_commit": "2022-12-08T09:31:55Z",
                 "owner": "ElevenPaths",
                 "repo": "FOCA",
-                "stars": 3620
+                "stars": 3621
               }
             },
             {
@@ -1605,7 +1627,7 @@
                 "last_commit": "2026-01-28T08:51:42Z",
                 "owner": "zed-0xff",
                 "repo": "zsteg",
-                "stars": 1615
+                "stars": 1616
               }
             },
             {
@@ -1648,7 +1670,7 @@
                 "last_commit": "2024-07-22T19:59:35Z",
                 "owner": "apsdehal",
                 "repo": "awesome-ctf",
-                "stars": 11789
+                "stars": 11791
               }
             },
             {
@@ -1678,6 +1700,56 @@
       "description": null,
       "items": [
         {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ForensicPosters",
+              "description": "Posters of file system structures",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35136913,
+                "language": null,
+                "last_commit": "2024-11-21T16:48:15Z",
+                "owner": "Invoke-IR",
+                "repo": "ForensicPosters",
+                "stars": 453
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Other"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BlueTeam.Lab",
+              "description": "Blue Team detection lab created with Terraform and Ansible in Azure.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 446330166,
+                "language": "Jinja",
+                "last_commit": "2024-11-20T14:06:45Z",
+                "owner": "op7ic",
+                "repo": "BlueTeam.Lab",
+                "stars": 187
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Labs"
+        }
+      ],
+      "title": "Resources"
+    },
+    {
+      "description": null,
+      "items": [
+        {
           "node_type": "item",
           "title": "Pentesting",
           "description": null,
@@ -1689,7 +1761,7 @@
             "last_commit": "2026-07-25T12:15:45Z",
             "owner": "enaqx",
             "repo": "awesome-pentest",
-            "stars": 26992
+            "stars": 26995
           }
         },
         {
@@ -1704,7 +1776,7 @@
             "last_commit": "2024-06-02T22:40:13Z",
             "owner": "carpedm20",
             "repo": "awesome-hacking",
-            "stars": 16927
+            "stars": 16929
           }
         },
         {
@@ -1719,7 +1791,7 @@
             "last_commit": "2026-01-11T02:00:26Z",
             "owner": "sbilly",
             "repo": "awesome-security",
-            "stars": 14790
+            "stars": 14791
           }
         },
         {
@@ -1734,7 +1806,7 @@
             "last_commit": "2024-06-07T05:09:47Z",
             "owner": "rshipp",
             "repo": "awesome-malware-analysis",
-            "stars": 14151
+            "stars": 14149
           }
         },
         {
@@ -1749,7 +1821,7 @@
             "last_commit": "2024-07-22T19:59:35Z",
             "owner": "apsdehal",
             "repo": "awesome-ctf",
-            "stars": 11789
+            "stars": 11791
           }
         },
         {
@@ -1779,7 +1851,7 @@
             "last_commit": "2026-08-21T18:33:19Z",
             "owner": "ashishb",
             "repo": "android-security-awesome",
-            "stars": 9631
+            "stars": 9638
           }
         },
         {
@@ -1794,7 +1866,7 @@
             "last_commit": "2026-07-15T10:58:26Z",
             "owner": "meirwah",
             "repo": "awesome-incident-response",
-            "stars": 9348
+            "stars": 9349
           }
         },
         {
@@ -1824,7 +1896,7 @@
             "last_commit": "2026-08-15T16:05:29Z",
             "owner": "onlurking",
             "repo": "awesome-infosec",
-            "stars": 5722
+            "stars": 5723
           }
         },
         {
@@ -1839,7 +1911,7 @@
             "last_commit": "2026-06-15T19:57:31Z",
             "owner": "pedramamini",
             "repo": "awesome-yara",
-            "stars": 4259
+            "stars": 4260
           }
         },
         {
@@ -1862,7 +1934,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T23:33:31.933Z",
+    "last_updated": "2026-08-24T13:56:14.910Z",
     "original_repository": "cugu/awesome-forensics",
     "original_repository_id": 55009841,
     "original_repository_sha": "39713e2a78a1afe053497234353eeeea5c844ec1",
